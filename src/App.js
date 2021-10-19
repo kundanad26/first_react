@@ -1,8 +1,7 @@
 function App() {
-  return 
-  (
-    <p>hello</p>
-  );
+  console.log("hello");
+  return (<p>hello</p>);
 }
 
 export default App;
+ 
